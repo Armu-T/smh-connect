@@ -1,0 +1,10 @@
+{
+  "name": "smh-connect",
+  "version": "1.0.0",
+  "description": "https://smhbalkan.dev",
+  "main": "connect.js",
+  "keywords": [],
+  "author": "Armu-T",
+  "license": "ISC",
+  "type": "commonjs"
+}
