@@ -29,4 +29,4 @@ Sistem üç ana aşamada çalışır:
 - **Performans:** Veri çekme işlemi asenkron yapıldığı için sayfa hızını etkilemez.
 
 ---
-**Geliştirici:** [Semih](https://github.com/senin-github-kullanici-adin)
+**Geliştirici:** [Semih](https://smhbalkan.dev)
